@@ -1,0 +1,2 @@
+# 设置图像清晰度
+plt.figure(figsize=(12, 8), dpi=150)  # dpi 越高，图像越清晰
