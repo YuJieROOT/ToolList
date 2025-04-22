@@ -1,0 +1,1 @@
+plt.rcParams['font.family'] = 'STFangsong'  # 替换为你选择的字体
